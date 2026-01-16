@@ -12,5 +12,6 @@ I’m a frontend developer focused on building practical, real-world web project
 - Building a public portfolio through real projects
 
 ### Find me
-- Portfolio: mifarhan.vercel.app
-- YouTube: Farhan Dev
+- Portfolio: https://mifarhan.vercel.app/
+- YouTube: [Farhan Dev](https://www.youtube.com/@Farhandevweb)
+- [LinkedIn](https://linkedin.com/in/yourusername)
