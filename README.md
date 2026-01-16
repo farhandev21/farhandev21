@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I’m Farhan 👋
 
-<!--
-**farhandev21/farhandev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a frontend developer focused on building practical, real-world web projects.
 
-Here are some ideas to get you started:
+### What I do
+- Build business websites and landing pages
+- Work with HTML, CSS, JavaScript, React, and Next.js
+- Ship small, usable projects consistently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+- Improving frontend structure, performance, and usability
+- Building a public portfolio through real projects
+
+### Find me
+- Portfolio: mifarhan.vercel.app
+- YouTube: Farhan Dev
